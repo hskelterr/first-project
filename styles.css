@@ -1,0 +1,32 @@
+body, h1, h3 {
+  margin: 0;
+} 
+body {
+  color: #2f80ed;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+h1 {
+  color: #2f80ed;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+
+}
+.error-text:hover + .desciption {
+  display: block;
+}
+h3 {
+  color: #2f80ed;
+  font-family: Avenir, Helvetica, Arial, sans-serif; 
+  font-weight: lighter;
+}
+.not-found-image {
+  width: 520px;
+  height: 190px;
+  margin: 110px 380px 1px 380px;
+  
+}
+.desciption {
+display: none;
+}
+.error-text {
+
+}
